@@ -114,7 +114,7 @@ node -v
 - 拉取项目代码
 
 ```
-https://github.com/houWenK/Campus-fixed-assets-management-system.git
+git clone https://github.com/houWenK/Campus-fixed-assets-management-system.git
 ```
 
 - 安装依赖
